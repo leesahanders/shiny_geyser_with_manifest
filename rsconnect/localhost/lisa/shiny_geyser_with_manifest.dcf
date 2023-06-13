@@ -1,0 +1,13 @@
+name: shiny_geyser_with_manifest
+title: shiny_geyser_with_manifest
+username: lisa
+account: lisa
+server: localhost
+hostUrl: http://localhost:53579/__api__
+appId: 6
+bundleId: 6
+url: http://localhost:53579/content/debb24cd-aabf-41a2-9981-431812c32602/
+when: 1684967291.63146
+lastSyncTime: 1684967291.63147
+asMultiple: FALSE
+asStatic: FALSE
